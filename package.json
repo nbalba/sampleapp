@@ -1,0 +1,27 @@
+{
+  "name": "(node-example)",
+  "version": "0.0.0",
+  "description": "This is a sample app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbalba/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "nbalba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbalba/node-example/issues"
+  },
+  "homepage": "https://github.com/nbalba/node-example",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+}
+}
