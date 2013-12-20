@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nbalba/node-example.git"
+    "url": "https://github.com/nbalba/sampleapp.git"
   },
   "keywords": [
     "example",
@@ -17,9 +17,9 @@
   "author": "nbalba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nbalba/node-example/issues"
+    "url": "https://github.com/nbalba/sampleapp/issues"
   },
-  "homepage": "https://github.com/nbalba/node-example",
+  "homepage": "https://github.com/nbalba/sampleapp",
   "dependencies": {
     "logfmt": "~0.18.1",
     "express": "~3.4.7"
